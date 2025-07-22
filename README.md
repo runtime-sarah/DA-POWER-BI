@@ -3,7 +3,11 @@
 <a href="https://drive.google.com/file/d/1wAYhASo5g8RRpCqWGA8V3gGpB3qy1Uo_/view?usp=sharing" target="_blank">
   <img src="Dashboard.png" alt="Air Traffic Dashboard  Image" style="max-width:50%;">
 </a>
+
+
 > 📊 **View interactive dashboard demo here:** [Click Here](https://drive.google.com/file/d/1wAYhASo5g8RRpCqWGA8V3gGpB3qy1Uo_/view?usp=sharing)
+
+
 ---
 
 ## Introduction
@@ -13,6 +17,7 @@ This Power BI dashboard is my personal project to analyze 2024 air traffic data 
 ### Dashboard File
 You can find the Power BI file for this dashboard here:
 [2024 Air Traffic Performance Analysis](<تحليل الحركة الجوية لعام 2024.pbix>)
+
 
 ---
 
