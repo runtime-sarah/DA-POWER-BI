@@ -1,7 +1,7 @@
 # ✈️ 2024 Air Traffic Performance Analysis: KSA Inbound & Outbound
 
 <a href="https://drive.google.com/file/d/1wAYhASo5g8RRpCqWGA8V3gGpB3qy1Uo_/view?usp=sharing" target="_blank">
-  <img src="/Users/sarah/Documents/DA POWER BI/Dashboard.png" alt="Air Traffic Dashboard  Image" style="max-width:100%;">
+  <img src="Dashboard.png" alt="Air Traffic Dashboard  Image" style="max-width:100%;">
 </a>
 > 📊 **View interactive dashboard demo here:**
 [Click Here](https://drive.google.com/file/d/1wAYhASo5g8RRpCqWGA8V3gGpB3qy1Uo_/view?usp=sharing)
