@@ -3,9 +3,7 @@
 <a href="https://drive.google.com/file/d/1wAYhASo5g8RRpCqWGA8V3gGpB3qy1Uo_/view?usp=sharing" target="_blank">
   <img src="Dashboard.png" alt="Air Traffic Dashboard  Image" style="max-width:50%;">
 </a>
-> 📊 **View interactive dashboard demo here:**
-[Click Here](https://drive.google.com/file/d/1wAYhASo5g8RRpCqWGA8V3gGpB3qy1Uo_/view?usp=sharing)
-
+> 📊 **View interactive dashboard demo here:** [Click Here](https://drive.google.com/file/d/1wAYhASo5g8RRpCqWGA8V3gGpB3qy1Uo_/view?usp=sharing)
 ---
 
 ## Introduction
