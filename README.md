@@ -1,7 +1,7 @@
 # ✈️ 2024 Air Traffic Performance Analysis: KSA Inbound & Outbound
 
 <a href="https://drive.google.com/file/d/1wAYhASo5g8RRpCqWGA8V3gGpB3qy1Uo_/view?usp=sharing" target="_blank">
-  <img src="Dashboard.png" alt="Air Traffic Dashboard  Image" style="max-width:50%;">
+  <img src="Dashboard.png" alt="Air Traffic Dashboard  Image" style="max-width:150%;">
 </a>
 
 
@@ -63,7 +63,7 @@ This dashboard showcases how Power BI can transform raw air traffic data into a 
 
 
 <a href="https://drive.google.com/file/d/1wAYhASo5g8RRpCqWGA8V3gGpB3qy1Uo_/view?usp=sharing" target="_blank">
-  <img src="/Users/sarah/Documents/DA POWER BI/Dashboard.png" alt="Air Traffic Dashboard  Image" style="max-width:100%;">
+  <img src="Dashboard.png" alt="Air Traffic Dashboard  Image" style="max-width:100%;">
 </a>
 
 > 📊 **شاهد العرض التفاعلي للوحة المعلومات هنا:** [اضغط هنا](https://drive.google.com/file/d/1wAYhASo5g8RRpCqWGA8V3gGpB3qy1Uo_/view?usp=sharing)
